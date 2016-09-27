@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B43AAB3-E065-4644-ABA8-7C9349FA7CD0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		jskoans.htm = jskoans.htm
+		license.txt = license.txt
+		README.md = README.md
+		testem.json = testem.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "support", "support", "{7520AEE2-D503-44C6-BB00-A6FC6774E54E}"
+	ProjectSection(SolutionItems) = preProject
+		topics\about_arrays.js = topics\about_arrays.js
+		topics\about_asserts.js = topics\about_asserts.js
+		topics\about_assignment.js = topics\about_assignment.js
+		topics\about_control_structures.js = topics\about_control_structures.js
+		topics\about_equality.js = topics\about_equality.js
+		topics\about_functions_and_closure.js = topics\about_functions_and_closure.js
+		topics\about_numbers.js = topics\about_numbers.js
+		topics\about_objects.js = topics\about_objects.js
+		topics\about_operators.js = topics\about_operators.js
+		topics\about_prototypal_inheritance.js = topics\about_prototypal_inheritance.js
+		topics\about_prototype_chain.js = topics\about_prototype_chain.js
+		topics\about_reflection.js = topics\about_reflection.js
+		topics\about_regular_expressions.js = topics\about_regular_expressions.js
+		topics\about_scope.js = topics\about_scope.js
+		topics\about_strings.js = topics\about_strings.js
+		topics\about_this.js = topics\about_this.js
+		topics\about_truthyness.js = topics\about_truthyness.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "topics", "topics", "{45FD1B20-BB36-4B19-BD1C-E49EF681158E}"
+	ProjectSection(SolutionItems) = preProject
+		topics\about_arrays.js = topics\about_arrays.js
+		topics\about_asserts.js = topics\about_asserts.js
+		topics\about_assignment.js = topics\about_assignment.js
+		topics\about_control_structures.js = topics\about_control_structures.js
+		topics\about_equality.js = topics\about_equality.js
+		topics\about_functions_and_closure.js = topics\about_functions_and_closure.js
+		topics\about_numbers.js = topics\about_numbers.js
+		topics\about_objects.js = topics\about_objects.js
+		topics\about_operators.js = topics\about_operators.js
+		topics\about_prototypal_inheritance.js = topics\about_prototypal_inheritance.js
+		topics\about_prototype_chain.js = topics\about_prototype_chain.js
+		topics\about_reflection.js = topics\about_reflection.js
+		topics\about_regular_expressions.js = topics\about_regular_expressions.js
+		topics\about_scope.js = topics\about_scope.js
+		topics\about_strings.js = topics\about_strings.js
+		topics\about_this.js = topics\about_this.js
+		topics\about_truthyness.js = topics\about_truthyness.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7520AEE2-D503-44C6-BB00-A6FC6774E54E} = {9B43AAB3-E065-4644-ABA8-7C9349FA7CD0}
+		{45FD1B20-BB36-4B19-BD1C-E49EF681158E} = {9B43AAB3-E065-4644-ABA8-7C9349FA7CD0}
+	EndGlobalSection
+EndGlobal
